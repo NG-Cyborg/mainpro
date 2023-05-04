@@ -1,0 +1,120 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  background-color: transparent;
+}
+h1{
+    color: orangered;
+}
+
+.div1 {
+  background-image: url(./images/jpg_20230402_132831_0000.jpg);
+  background-size: cover;
+  background-position; left;
+}
+#img1 {
+  padding: 0px;
+  margin: 10px;
+  margin-top: 0px;
+}
+.a1,
+#p1 {
+  color: chartreuse;
+  word-spacing: 20px;
+  text-align: right;
+  margin-left: 20px;
+  padding: 10px;
+  padding-top: -30px;
+  margin-top: -20px;
+  text-decoration: none;
+}
+.a1:hover {
+  color: bisque;
+  background: orangered;
+}
+.div2 {
+  background: url(./images/david-marcu-78A265wPiO4-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 80vh;
+  line-height: 30px;
+  color: rgb(255, 255, 255);
+  text-indent: 10px;
+  font-size: 40px;
+}
+.div3 {
+  float: left;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.div4{
+    background-color: darkgray;
+    height: 310px;
+    word-spacing: 10px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.div5{
+    float: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.quote{
+    text-align: center;
+    background-color: darkgray;
+    height: 150px;
+    margin-bottom: -200px;
+    
+}
+footer{
+    background: url(./images/jpg_20230402_132831_0000.jpg);
+    height: 150px;
+    color: chartreuse;
+}
+#footp1{
+    color: chartreuse;
+    text-decoration: none;
+}
+#footp2{
+    color: chartreuse;
+    text-decoration: none;
+    background-color: transparent;
+}
+.f1{
+    float: left;
+    line-height: 30px;
+    margin-left: 10px;
+}
+.f2{
+    line-height: 30px;
+    text-align: left;
+    margin: 200px;
+    
+}
+#footp1:hover, #footp2:hover{
+    color: bisque;
+  background: orangered;
+  padding: 5px;
+}
